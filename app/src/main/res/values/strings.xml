@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WiremockTestApp</string>
+    <string name="translationInputHint">Type word to be translated</string>
+    <string name="translate">Translate</string>
+</resources>
